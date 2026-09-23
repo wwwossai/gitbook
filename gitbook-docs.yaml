@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 丰盘ECM产品手册
+  structure:
+    - type: space
+      key: space-1
+      title: 丰盘ECM产品手册 v25.9.4
+      path: xpan
+      default: true
+      content:
+        directory: ./xpan
